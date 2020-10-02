@@ -1,0 +1,11 @@
+D:\gayathri\projects\TZTestWeb\TZTestWeb\bin\Debug\netcoreapp2.0\TZTestWeb.deps.json
+D:\gayathri\projects\TZTestWeb\TZTestWeb\bin\Debug\netcoreapp2.0\TZTestWeb.runtimeconfig.json
+D:\gayathri\projects\TZTestWeb\TZTestWeb\bin\Debug\netcoreapp2.0\TZTestWeb.runtimeconfig.dev.json
+D:\gayathri\projects\TZTestWeb\TZTestWeb\bin\Debug\netcoreapp2.0\TZTestWeb.dll
+D:\gayathri\projects\TZTestWeb\TZTestWeb\bin\Debug\netcoreapp2.0\TZTestWeb.pdb
+D:\gayathri\projects\TZTestWeb\TZTestWeb\obj\Debug\netcoreapp2.0\TZTestWeb.csprojResolveAssemblyReference.cache
+D:\gayathri\projects\TZTestWeb\TZTestWeb\obj\Debug\netcoreapp2.0\TZTestWeb.csproj.CoreCompileInputs.cache
+D:\gayathri\projects\TZTestWeb\TZTestWeb\obj\Debug\netcoreapp2.0\TZTestWeb.AssemblyInfoInputs.cache
+D:\gayathri\projects\TZTestWeb\TZTestWeb\obj\Debug\netcoreapp2.0\TZTestWeb.AssemblyInfo.cs
+D:\gayathri\projects\TZTestWeb\TZTestWeb\obj\Debug\netcoreapp2.0\TZTestWeb.dll
+D:\gayathri\projects\TZTestWeb\TZTestWeb\obj\Debug\netcoreapp2.0\TZTestWeb.pdb
